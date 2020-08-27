@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Meu nome é Jefferson Mello, sou Brasileiro e atualmente moro em Fortaleza-CE. Atuo como QA desde 2018 e atualmente trabalho na NPI - Soluções em Tecnologia. 
+Meu nome é Jefferson Mello, sou Brasileiro e atualmente moro em Fortaleza-CE. Atuo como QA desde 2018 e atualmente trabalho no Instituto Atlântico. 
 
 Gosto muito de aprender coisas novas diariamente, posso dizer que isso se tornou minha maior diversão, então virei entusiasta de várias tecnologias. No meu tempo livre 🕜, além de estudar, gosto muito de ouvir música (amo vinis ❤️) e ler sobre filosofia.
 
